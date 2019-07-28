@@ -23,7 +23,7 @@ github_username:  robert-matusewicz
 
 # Build settings
 markdown: kramdown
-theme: minima
+remote_theme: poole/hyde
 plugins:
   - jekyll-feed
 
